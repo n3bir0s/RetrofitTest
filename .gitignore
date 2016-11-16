@@ -38,3 +38,9 @@ captures/
 
 # Keystore files
 *.jks
+/.idea
+/build.gradle
+/gradle.properties
+/gradlew
+/gradlew.bat
+/settings.gradle
